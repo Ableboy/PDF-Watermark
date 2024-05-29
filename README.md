@@ -15,7 +15,7 @@ This project involves adding watermarks to PDF files to protect the content or m
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ableboy/pdf-watermarking.git
+git clone https://github.com/Ableboy/PDF-Watermark.git
 
 # Navigate into the project directory
 cd pdf-watermarking
@@ -33,6 +33,7 @@ Usage
 python watermark.py 
 
 Use Case
+
 Ensuring that documents are marked with ownership or status information,
 useful for businesses that need to share sensitive information.
 
@@ -43,7 +44,7 @@ Fork the repository on GitHub.
 
 Clone your forked repository to your local machine.
 
-git clone https://github.com/yourusername/pdf-watermarking.git
+git clone https://github.com/Ableboy/PDF-Watermark.git
 Create a branch for your feature or bug fix.
 
 git checkout -b feature/feature-name
