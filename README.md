@@ -15,7 +15,7 @@ This project involves adding watermarks to PDF files to protect the content or m
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Ableboy/PDF-Watermark.git](#PDF-Watermark)
+git clone https://github.com/Ableboy/PDF-Watermark.git
 
 # Navigate into the project directory
 cd PDF-Watermark
@@ -45,7 +45,7 @@ Fork the repository on GitHub.
 
 Clone your forked repository to your local machine.
 ```bash
-git clone [https://github.com/Ableboy/PDF-Watermark.git](#PDF-Watermark)
+git clone https://github.com/Ableboy/PDF-Watermark.git
 ```
 Create a branch for your feature or bug fix.
 ```bash
